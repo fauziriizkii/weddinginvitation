@@ -1,8 +1,7 @@
-# Tugas 3 PWEB B
 
-Nama  : Katarina Inezita Prambudi
-NRP : 5025211148
-Kelas : PWEB B
+
+Alya Putri Salma
+5025211174
 
 ## Deskripsi Tugas
 Membuat HTML Undangan Pernikahan
